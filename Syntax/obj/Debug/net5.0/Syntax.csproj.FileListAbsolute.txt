@@ -1,0 +1,5 @@
+C:\Users\jamar\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.csproj.AssemblyReference.cache
+C:\Users\jamar\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamar\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.AssemblyInfoInputs.cache
+C:\Users\jamar\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.AssemblyInfo.cs
+C:\Users\jamar\repos\Syntax\Syntax\obj\Debug\net5.0\Syntax.csproj.CoreCompileInputs.cache
